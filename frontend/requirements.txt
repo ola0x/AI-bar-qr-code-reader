@@ -1,0 +1,5 @@
+requests==2.31.0
+opencv-python==4.6.0.66
+streamlit==1.25.0
+pymupdf==1.22.5
+pillow==9.3.0
